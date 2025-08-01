@@ -12,4 +12,4 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 ## 📫 Contact
 - Email: tusharsharma48184@gmail.com
-- GitHub: [github.com/tusharsharma-dev](https://github.com/tusharsharma-dev)
+- GitHub: https://github.com/tusharsharma48184
